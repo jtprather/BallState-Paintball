@@ -7,4 +7,4 @@ authored by J. Prather
 
 I will be setting this up with C#/.NET/MVC, still working on details.
 
-If you made it this far, I applaud you.
+If you made it this far, I applaude you.
